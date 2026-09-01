@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CyberXAgency/CyberXAgency/main/assets/cyberx-logo.png" alt="CyberX.agency" width="150"/>
+<img src="./assets/banner.png" alt="CyberX.agency - Cybersecurity" width="100%">
 
-# CYBERX.AGENCY
+<br>
 
-### Cybersecurity for Modern Businesses
+### CYBERSECURITY • VULNERABILITY ASSESSMENT • PENETRATION TESTING
 
-**Identify. Assess. Secure.**
-
-[![Website](https://img.shields.io/badge/Website-cyberx.agency-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cyberx.agency)
+[![Website](https://img.shields.io/badge/Website-cyberx.agency-0A84FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cyberx.agency)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CyberX.agency-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cyberx-agency/)
 [![Email](https://img.shields.io/badge/Email-info%40cyberx.agency-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@cyberx.agency)
 
@@ -16,134 +14,201 @@
 
 ---
 
-## 🛡️ About CyberX.agency
+# 🛡️ About CyberX.agency
 
-**CyberX.agency** is a cybersecurity services company focused on helping businesses identify, understand, and reduce security risks across their digital environments.
+**CyberX.agency** is a cybersecurity services company focused on helping organizations identify, understand, and reduce security risks across their digital environments.
 
-We initially specialize in **Website Vulnerability Assessment and Penetration Testing (VAPT)**, with a particular focus on web applications, websites, authentication mechanisms, security configurations, APIs, and other internet-facing components.
+Our initial specialization is **Website Vulnerability Assessment and Penetration Testing (VAPT)**, with a strong focus on internet-facing websites, web applications, APIs, authentication mechanisms, authorization controls, security configurations, and application-level weaknesses.
 
-Our approach combines structured security testing, practical risk analysis, evidence-based reporting, and remediation guidance to help organizations make informed security decisions.
+We combine structured security assessment methodologies, manual testing, technical analysis, evidence-based reporting, and practical remediation guidance to help businesses better understand their security posture.
 
-We believe cybersecurity should not be limited to identifying technical weaknesses.
+Cybersecurity is not simply about finding vulnerabilities.
 
-It should help businesses understand **what the risk means, why it matters, and what should be done next.**
+It is about understanding **risk**.
 
----
+It is about knowing:
 
-## 🎯 Our Mission
+> **What can go wrong?**
+>
+> **How serious is it?**
+>
+> **What could it mean for the business?**
+>
+> **What should be fixed first?**
 
-> **Identify risk. Communicate it clearly. Help businesses build stronger security.**
-
-Cybersecurity can be complex.
-
-Our mission is to make security assessment more practical and understandable for organizations of different sizes and industries.
-
-We aim to help businesses:
-
-- Discover vulnerabilities before attackers do
-- Understand their real-world security exposure
-- Prioritize security risks
-- Improve vulnerable systems and applications
-- Strengthen their overall security posture
-- Make better-informed security decisions
+That is the approach we aim to bring to every security assessment.
 
 ---
 
-## 🔎 What We Do
+# 🎯 Our Mission
 
-### 🌐 Website & Web Application Security
+> **Identify Risk. Communicate It Clearly. Build Stronger Security.**
 
-We assess internet-facing websites and web applications for security weaknesses that could affect confidentiality, integrity, availability, authentication, authorization, or business operations.
+Our mission is to make cybersecurity assessment more practical, transparent, and useful for organizations of different sizes.
+
+We believe that a good security assessment should not leave a business owner with a complicated list of technical findings and no clear direction.
+
+Instead, security findings should be translated into meaningful information that allows organizations and their technical teams to make informed decisions.
+
+### We help organizations:
+
+- 🔎 Discover security weaknesses
+- 🧠 Understand the significance of identified risks
+- 📊 Prioritize vulnerabilities based on risk
+- 🛡️ Improve security controls
+- 🔐 Strengthen applications and digital platforms
+- 📝 Understand security findings through clear reporting
+- 🔧 Make informed remediation decisions
+
+---
+
+# 🌐 Our Core Services
+
+## 🔎 Website Vulnerability Assessment
+
+We assess websites and internet-facing applications to identify potential security weaknesses within the agreed assessment scope.
 
 Areas may include:
 
-- Authentication security
-- Authorization and access control
+- Security misconfigurations
+- Authentication weaknesses
+- Authorization issues
 - Session management
 - Input validation
+- Information disclosure
+- File handling
+- Application security controls
+- Client-side security
+- API exposure
+- Business logic weaknesses
+
+---
+
+## 🛡️ Web Application Penetration Testing
+
+Penetration testing goes beyond automated vulnerability scanning.
+
+Where authorized and appropriate, we perform controlled security testing to validate whether identified weaknesses can realistically affect an application or its underlying business functions.
+
+Testing may cover:
+
+- Authentication mechanisms
+- Authorization and access control
+- Session security
+- Input handling
 - Injection vulnerabilities
 - Cross-site scripting
-- Security misconfiguration
-- File upload security
-- API security
-- Business logic weaknesses
-- Client-side security
+- Access control weaknesses
+- File upload functionality
+- API endpoints
+- Business logic
+- Security configuration
 - Sensitive information exposure
 
----
-
-### 🔍 Vulnerability Assessment
-
-Our vulnerability assessment process focuses on identifying and analyzing weaknesses across the defined assessment scope.
-
-We aim to provide organizations with:
-
-- Vulnerability identification
-- Risk classification
-- Severity assessment
-- Technical evidence
-- Affected components
-- Business impact analysis
-- Remediation recommendations
+The objective is to provide organizations with a clearer understanding of their **real-world security exposure**.
 
 ---
 
-### 🛡️ Penetration Testing
+## 🔐 Authentication & Authorization Testing
 
-Authorized penetration testing goes beyond automated scanning.
+Modern applications depend heavily on identity and access controls.
 
-Where appropriate and within an agreed scope, testing may involve controlled attempts to validate whether identified weaknesses can realistically be exploited.
+Our security testing may examine areas such as:
 
-Our objective is not simply to produce a list of vulnerabilities.
-
-The objective is to help organizations understand their **actual security exposure**.
+- Login mechanisms
+- Password policies
+- Session handling
+- Account recovery
+- Multi-factor authentication controls
+- Role-based access
+- Privilege boundaries
+- Horizontal access control
+- Vertical privilege escalation
+- Access to restricted functionality
 
 ---
 
-## 🧪 Our Security Assessment Approach
+## 🔌 API Security Assessment
 
-Every engagement should begin with clear authorization and scope.
+APIs are an increasingly important part of modern applications.
 
-A typical assessment workflow can be represented as:
+Where APIs fall within the agreed scope, testing may examine:
+
+- Authentication
+- Authorization
+- Access control
+- Input validation
+- API exposure
+- Excessive data exposure
+- Rate limiting
+- Security configuration
+- Endpoint behavior
+- Object-level authorization
+
+---
+
+# 🧪 Our Security Assessment Methodology
+
+A professional security assessment begins before technical testing.
+
+We believe every engagement should establish clear:
+
+**Authorization → Scope → Rules of Engagement → Testing → Evidence → Analysis → Reporting → Remediation**
+
+A typical assessment lifecycle can be represented as:
 
 ```text
-┌──────────────────────┐
-│  01. Scope & Rules   │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  02. Reconnaissance  │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  03. Attack Surface  │
-│      Mapping         │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  04. Vulnerability   │
-│      Discovery       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  05. Security        │
-│      Validation      │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  06. Risk Analysis   │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  07. Evidence &      │
-│      Documentation   │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  08. Security Report │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  09. Remediation     │
-│      Guidance        │
-└──────────────────────┘
+                ┌─────────────────────┐
+                │  01. Authorization  │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │  02. Scope & Rules  │
+                │    of Engagement    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ 03. Reconnaissance  │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ 04. Attack Surface  │
+                │       Mapping       │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ 05. Vulnerability   │
+                │      Discovery      │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ 06. Security        │
+                │     Validation      │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ 07. Risk Analysis   │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ 08. Evidence &      │
+                │    Documentation    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ 09. Security Report │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ 10. Remediation     │
+                │      Guidance       │
+                └─────────────────────┘
